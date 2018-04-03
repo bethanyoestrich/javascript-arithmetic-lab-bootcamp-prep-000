@@ -23,21 +23,13 @@ function dec(n){
   return --n
 }
 
-function makeInt(n){
-  return (parseInt();)
-}
-function makeInt(n){
-  return (parseInt('0',10);)
-}
 
 function makeInt(n){
-  return (parseInt("nonsense!", 10))
+  return (parseInt(n,10))
 }
+
 
 function preserveDecimal(n){
-  return(parseFloat ('2.22');)
+  return(parseFloat (n))
 }
 
-function preserveDecimal(n){
-  return(parseFloat ('cats'))
-}
