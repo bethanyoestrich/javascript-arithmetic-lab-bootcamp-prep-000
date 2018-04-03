@@ -24,10 +24,10 @@ function dec(n){
 }
 
 function makeInt(n){
-  return (parseInt())
+  return (parseInt();)
 }
 function makeInt(n){
-  return (parseInt('0',10))
+  return (parseInt('0',10);)
 }
 
 function makeInt(n){
@@ -35,7 +35,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return(parseFloat ('2.22'))
+  return(parseFloat ('2.22');)
 }
 
 function preserveDecimal(n){
